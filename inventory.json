@@ -1,0 +1,34 @@
+[
+    {
+        "type": "digital",
+        "product_id": "P001",
+        "name": "game",
+        "price": 10.0,
+        "stock": 5,
+        "download_size": 300.0
+    },
+    {
+        "type": "physical",
+        "product_id": "P002",
+        "name": "merch",
+        "price": 15.0,
+        "stock": 20,
+        "weight": 0.3
+    },
+    {
+        "type": "digital",
+        "product_id": "P003",
+        "name": "game2",
+        "price": 100.0,
+        "stock": 10,
+        "download_size": 500.0
+    },
+    {
+        "type": "physical",
+        "product_id": "P004",
+        "name": "Guitar",
+        "price": 100.0,
+        "stock": 10,
+        "weight": 2.0
+    }
+]
